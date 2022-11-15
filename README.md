@@ -14,8 +14,6 @@ Out of more than 30,000 generated images I selected the best 1,500 or so for pub
 
 As input images to stable diffusion I used 16x hqx upscaled versions of https://opengameart.org/content/dungeon-crawl-32x32-tiles-supplemental . They are under public domain. For 2 of the variants (one battle axe and the purple rage creatures) I used also https://opengameart.org/content/dungeon-crawl-selected-upscale .
 
-The cherry tree from https://opengameart.org/content/lpc-plant-repack was used as input for cherry_tree.png so that file may be required to use under CC-BY-SA-3.0 as the original and otherwise no other input images were used.
-
 All images are 512x512 resolution.
 
 I do not provide the input prompts used to generate the images here but you can run the imagemagick command identify on the image to get the parameters:
@@ -27,7 +25,7 @@ the style of world of warcraft and breath of the wild, 8k, intricate, detailed, 
 ```
  
 # Copyright/Attribution Notice
-I release this art under public domain as the originals. One exception may be the cherry tree under CC-BY-SA 3.0, I'm not sure if it falls under the same license as the original. I might remove it actually just to simplify things, then all will be public domain.
+I release this art under public domain as the originals.
 
 # Monsters Preview
 ![Monsters Preview](previews/monsters_preview.png?raw=true "Monsters")
