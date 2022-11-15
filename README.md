@@ -34,4 +34,4 @@ I release this art under public domain as the originals.
 ![Weapons Preview](previews/weapons_artefact_preview.png?raw=true "Weapons")
 
 # Icons Preview
-![Icons Preview](previews/ai_art_preview_224.png?raw=true "Icons")
+![Icons Preview](previews/ai_art_preview_223.png?raw=true "Icons")
